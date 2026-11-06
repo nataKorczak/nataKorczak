@@ -31,8 +31,8 @@ Meu nome é **Natã Diego Korczak Trino**, tenho 19 anos e sou do interior de S�
 
 <img 
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="CSS"
+    title="CSS"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css/css-original.svg" 
@@ -41,8 +41,8 @@ Meu nome é **Natã Diego Korczak Trino**, tenho 19 anos e sou do interior de S�
 
 <img 
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="JavaScript"
+    title="JavaScript"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
@@ -51,8 +51,8 @@ Meu nome é **Natã Diego Korczak Trino**, tenho 19 anos e sou do interior de S�
 
 <img 
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="PHP"
+    title="PHP"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" 
@@ -61,8 +61,8 @@ Meu nome é **Natã Diego Korczak Trino**, tenho 19 anos e sou do interior de S�
 
 <img 
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="Java"
+    title="Java"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" 
@@ -71,8 +71,8 @@ Meu nome é **Natã Diego Korczak Trino**, tenho 19 anos e sou do interior de S�
 
 <img 
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="MySql"
+    title="MySql"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" 
@@ -81,8 +81,8 @@ Meu nome é **Natã Diego Korczak Trino**, tenho 19 anos e sou do interior de S�
     
 <img 
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="C"
+    title="C"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" 
@@ -91,8 +91,8 @@ Meu nome é **Natã Diego Korczak Trino**, tenho 19 anos e sou do interior de S�
   
 <img 
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="GIT"
+    title="GIT"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" 
@@ -101,8 +101,8 @@ Meu nome é **Natã Diego Korczak Trino**, tenho 19 anos e sou do interior de S�
    
 <img 
     align="left"
-    alt="HTML"
-    title="HTML"
+    alt="PYTHON"
+    title="PYTHON"
     width="30px"
     style="padding-right: 10px;"
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
